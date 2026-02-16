@@ -14,11 +14,12 @@ Additionally, I focus on creating innovative UI solutions and continuously impro
 
 ---
 
-## 👨‍💻 My Recent Projects
+---
 
-1. [Vet management system](https://github.com/yourusername/project1)
-2. [Movies website](https://github.com/yourusername/project2)
-3. [Photo search gallery](https://github.com/yourusername/project3)
-4. [Time tracking dashboard](https://github.com/yourusername/project4)
-5. [Blog for all developers](https://github.com/yourusername/project5)
-6. [Multi-step form](https://github.com/yourusername/project6)
+## 🛠 Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,git,github" />
+</p>
+
+---
