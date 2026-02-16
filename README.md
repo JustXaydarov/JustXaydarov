@@ -9,7 +9,7 @@ Additionally, I focus on creating innovative UI solutions and continuously impro
   <tr>
     <td><b>You can reach me through:</b></td>
     <td><a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/WEBSITE-orange?style=for-the-badge" /></a></td>
-    <td><a href="mailto:yourgmail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+    <td><a href="mailto:xaydarovizzatbek67@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
     <td><a href="https://wa.me/998901234567"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></td>
     <td><a href="https://t.me/Just_Xaydarov"><img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a></td>
   </tr>
