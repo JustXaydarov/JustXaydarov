@@ -64,13 +64,9 @@ Passionate frontend developer focused on building modern, responsive, and user-f
 
 ## 📊 GitHub Stats
 
-```md
-Add your GitHub username below:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustXaydarov&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustXaydarov&layout=compact)
 
 ---
 
