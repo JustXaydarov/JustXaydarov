@@ -2,96 +2,80 @@
 
 ### Frontend Developer
 
-I'm a frontend developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences and continuously improving my skills by working on real-world projects.
+Passionate frontend developer focused on building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into clean and interactive digital experiences while continuously learning new technologies and improving my development skills.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Focused on Frontend Development
-* 🌱 Currently improving my React and TypeScript skills
-* 🎯 Interested in modern UI/UX and performance optimization
-* 📚 Always learning new technologies and best practices
-* ⚡ Love creating clean, maintainable, and scalable code
+* 💻 Frontend Developer
+* 🌱 Currently learning advanced React and TypeScript
+* 🎯 Focused on clean code and modern web development
+* 📚 Constantly improving problem-solving skills
+* ⚡ Interested in UI/UX and web performance
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Technologies
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-
-### Styling
-
-* CSS
-* Sass
-* Tailwind CSS
-
-### Frontend
-
-* React
-
-### Version Control
-
-* Git
-* GitHub
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📌 Skills
+## 📚 Currently Learning
 
-```text
-HTML ████████████████████
-CSS ████████████████████
-Sass ██████████████████░
-Tailwind CSS ██████████████████░
-JavaScript ███████████████████░
-React ██████████████████░
-TypeScript ████████████████░░░
-Git ███████████████████░
-GitHub ███████████████████░
-```
+* Advanced React Patterns
+* TypeScript Best Practices
+* Performance Optimization
+* Modern Frontend Architecture
 
 ---
 
-## 📂 What I Work With
+## 🎯 What I Focus On
 
-✔ Responsive Web Design
-
-✔ Component-Based Architecture
-
-✔ Single Page Applications (SPA)
-
-✔ Modern JavaScript Development
-
-✔ React Ecosystem
-
-✔ Version Control & Collaboration
-
-✔ Clean and Reusable Code
+* Responsive Web Design
+* Modern User Interfaces
+* Reusable Components
+* Clean Code Principles
+* Frontend Performance
+* Git & GitHub Workflow
 
 ---
 
-## 📈 Current Goals
+## 📈 Goals
 
-* Deepen React knowledge
-* Master TypeScript
-* Learn advanced frontend architecture
-* Build production-level projects
+* Build larger production-level projects
+* Improve TypeScript skills
+* Master React ecosystem
 * Contribute to open-source projects
+* Become a professional frontend engineer
+
+---
+
+## 📊 GitHub Stats
+
+```md
+Add your GitHub username below:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+```
 
 ---
 
 ## 🤝 Connect With Me
 
-Feel free to connect with me and explore my projects. I'm always open to learning, collaboration, and new opportunities.
+Feel free to explore my repositories and projects. I'm always open to learning, collaboration, and new opportunities.
 
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to check out my repositories and leave a star.
+⭐ Thanks for visiting my profile!
