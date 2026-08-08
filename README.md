@@ -18,8 +18,6 @@ Passionate frontend developer dedicated to building fast, modern and responsive 
 const izzatbek = {
     role: "Frontend Developer",
 
-    location: "Uzbekistan",
-
     currentLearning: [
         "Advanced React",
         "TypeScript",
