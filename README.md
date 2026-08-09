@@ -12,7 +12,7 @@ Passionate frontend developer dedicated to building fast, modern and responsive 
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```ts
 const izzatbek = {
