@@ -12,7 +12,7 @@ Frontend Developer focused on building fast, modern, responsive and user-friendl
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```ts
 const izzatbek = {
@@ -37,7 +37,7 @@ const izzatbek = {
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Programming Languages
 
@@ -71,7 +71,7 @@ const izzatbek = {
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 * ⚛️ Advanced React Patterns
 * 🔷 TypeScript Best Practices
@@ -82,7 +82,7 @@ const izzatbek = {
 
 ---
 
-# 💡 What I Enjoy Building
+#  What I Enjoy Building
 
 * Responsive Web Applications
 * Interactive User Interfaces
@@ -94,7 +94,7 @@ const izzatbek = {
 
 ---
 
-# 💼 Professional Focus
+#  Professional Focus
 
 <div align="center">
 
