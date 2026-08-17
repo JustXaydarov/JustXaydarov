@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Building Digital Experiences&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;Building+Digital+Experiences;Creating+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
 <p>
