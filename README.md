@@ -111,7 +111,7 @@ const izzatbek = {
 
 ---
 
-# 📈 2026 Goals
+#  2026 Goals
 
 * Build large real-world applications
 * Improve React architecture skills
@@ -133,7 +133,7 @@ const izzatbek = {
 
 ---
 
-# 🎯 Development Principles
+#  Development Principles
 
 * ✔️ Write clean and maintainable code
 * ✔️ Keep components reusable
