@@ -88,22 +88,6 @@ const izzatbek = {
 
 ---
 
-# 🚀 Featured Projects
-
-### 🍽️ Tanho Restaurant
-
-Full-stack restaurant management and ordering platform focused on modern UI, responsive design and scalable frontend architecture.
-
-**Tech Stack:** React · TypeScript · Tailwind CSS · TanStack Query
-
-### 💻 Frontend Projects
-
-A collection of modern frontend projects built to improve my skills in React, TypeScript, responsive design and UI architecture.
-
-**Focus:** React · TypeScript · JavaScript · SCSS · Tailwind CSS
-
----
-
 # 📈 2026 Goals
 
 * Build large real-world applications
@@ -113,6 +97,22 @@ A collection of modern frontend projects built to improve my skills in React, Ty
 * Improve frontend performance skills
 * Build scalable and maintainable applications
 * Grow as a Professional Frontend Engineer
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JustXaydarov&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JustXaydarov&theme=github-dark&hide_border=true" />
+
+</div>
 
 ---
 
