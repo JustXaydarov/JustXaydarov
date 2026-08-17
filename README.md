@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Izzatbek%20Xaydarov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
 <p>
@@ -57,6 +59,12 @@ const izzatbek = {
 <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
+### Runtime & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
 ### Tools
 
 <p>
@@ -88,6 +96,23 @@ const izzatbek = {
 
 ---
 
+# 💼 Professional Focus
+
+<div align="center">
+
+|       Focus      | Goal                                         |
+| :--------------: | :------------------------------------------- |
+|     ⚛️ React     | Build scalable and reusable applications     |
+|   🔷 TypeScript  | Write safer and maintainable code            |
+|     🎨 UI/UX     | Create modern and intuitive interfaces       |
+|   ⚡ Performance  | Build fast and optimized applications        |
+| 🏗️ Architecture | Design clean and scalable project structures |
+|    🔧 Node.js    | Understand and build backend services        |
+
+</div>
+
+---
+
 # 📈 2026 Goals
 
 * Build large real-world applications
@@ -97,6 +122,14 @@ const izzatbek = {
 * Improve frontend performance skills
 * Build scalable and maintainable applications
 * Grow as a Professional Frontend Engineer
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JustXaydarov&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
 
 ---
 
@@ -129,6 +162,8 @@ const izzatbek = {
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer&animation=fadeIn" />
 
 > **"First, solve the problem. Then, write clean code."**
 
