@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%26+TypeScript+Developer;Building+Digital+Experiences;Creating+Modern+Web+Applications;Writing+Clean+%26+Scalable+Code;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;Building+Digital+Experiences;Creating+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-<p> Frontend Developer focused on building fast, modern, responsive and user-friendly web applications with clean and maintainable code. </p>
+<p>
+Frontend Developer focused on building fast, modern, responsive and user-friendly web applications with clean and maintainable code.
+</p>
 
 </div>
 
@@ -12,7 +14,6 @@
 
 #  About Me
 
-```ts
 const izzatbek = {
     role: "Frontend Developer",
 
@@ -31,7 +32,6 @@ const izzatbek = {
 
     goal: "Professional Frontend Engineer"
 }
-```
 
 ---
 
@@ -73,8 +73,8 @@ const izzatbek = {
 
 * ⚛️ Advanced React Patterns
 * 🔷 TypeScript Best Practices
-* ⚡ TanStack Query
-* 🏗️ Scalable Frontend Architecture
+* ⚡️ TanStack Query
+* 🏗 Scalable Frontend Architecture
 * 🎨 Advanced UI Architecture
 * 🚀 Frontend Performance Optimization
 
@@ -101,8 +101,8 @@ const izzatbek = {
 |     ⚛️ React     | Build scalable and reusable applications     |
 |   🔷 TypeScript  | Write safer and maintainable code            |
 |     🎨 UI/UX     | Create modern and intuitive interfaces       |
-|   ⚡ Performance  | Build fast and optimized applications        |
-| 🏗️ Architecture | Design clean and scalable project structures |
+|   ⚡️ Performance  | Build fast and optimized applications        |
+| 🏗 Architecture | Design clean and scalable project structures |
 |    🟢 Node.js    | Build backend services and APIs              |
 
 </div>
@@ -145,10 +145,9 @@ const izzatbek = {
 
 <div align="center">
 
-> **"First, solve the problem. Then, write clean code."**
+> "First, solve the problem. Then, write clean code."
 
-⭐ Thanks for visiting my profile!
+⭐️ Thanks for visiting my profile!
 
 </div>
-
 
