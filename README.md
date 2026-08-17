@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;Building+Digital+Experiences;Creating+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%26+TypeScript+Developer;Building+Digital+Experiences;Creating+Modern+Web+Applications;Writing+Clean+%26+Scalable+Code;Always+Learning+New+Technologies" />
 
-<p>
-Frontend Developer focused on building fast, modern, responsive and user-friendly web applications with clean and maintainable code.
-</p>
+<p> Frontend Developer focused on building fast, modern, responsive and user-friendly web applications with clean and maintainable code. </p>
 
 </div>
 
