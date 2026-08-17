@@ -57,10 +57,6 @@ const izzatbek = {
 <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tanstack" />
-</p>
-
 ### Tools
 
 <p>
@@ -92,6 +88,22 @@ const izzatbek = {
 
 ---
 
+# 🚀 Featured Projects
+
+### 🍽️ Tanho Restaurant
+
+Full-stack restaurant management and ordering platform focused on modern UI, responsive design and scalable frontend architecture.
+
+**Tech Stack:** React · TypeScript · Tailwind CSS · TanStack Query
+
+### 💻 Frontend Projects
+
+A collection of modern frontend projects built to improve my skills in React, TypeScript, responsive design and UI architecture.
+
+**Focus:** React · TypeScript · JavaScript · SCSS · Tailwind CSS
+
+---
+
 # 📈 2026 Goals
 
 * Build large real-world applications
@@ -101,34 +113,6 @@ const izzatbek = {
 * Improve frontend performance skills
 * Build scalable and maintainable applications
 * Grow as a Professional Frontend Engineer
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JustXaydarov&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustXaydarov&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JustXaydarov&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JustXaydarov&theme=github-dark&hide_border=true" />
-
-</div>
 
 ---
 
