@@ -30,7 +30,7 @@ const izzatbek = {
         "Clean Code"
     ],
 
-    goal: "Professional Frontend Engineer"
+    goal: "Professional Frontend and Backend Engineer"
 }
 
 ---
